@@ -1,0 +1,29 @@
+{
+  "name": "Team Matcher",
+  "description": "Helps create teams for team events from meetup.com's event Going list. Adds the 'Make teams' button to the event attendies page",
+  "author": "Maxim Kirov",
+  "homepage_url": "https://github.com/maximki/team-matcher",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "96": "icon-96.png",
+    "256": "icon-256.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://meetup.com/*", "*://www.meetup.com/*"],
+      "js": ["meetup-attendees.js"]
+    },
+    {
+      "matches": [
+        "*://www.keamk.com/random-team-generator",
+        "*://keamk.com/random-team-generator"
+      ],
+      "js": ["keamk.js"]
+    }
+  ],
+  "permissions": ["activeTab", "storage"]
+}
