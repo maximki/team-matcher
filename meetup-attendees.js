@@ -50,7 +50,7 @@ function getPersonId(profileLink) {
 
 function storeParticipantsAndRedirectToKeamk(group_id, event_id) {
   var attendees = document.querySelectorAll(
-    "li.attendee-item.list-item  a[href^='/Smiley-Social/members/'] > h4"
+    "li.attendee-item.list-item  a[href^='/" + group_id + "/members/'] > h4"
   );
   // prepare a list of {person_id, person_name} from the event attendies
   var list = [];

@@ -3,7 +3,7 @@
   "description": "Helps create teams for team events from meetup.com's event Going list. Adds the 'Make teams' button to the event attendies page",
   "author": "Maxim Kirov",
   "homepage_url": "https://github.com/maximki/team-matcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "icons": {
     "16": "icon-16.png",
