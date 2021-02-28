@@ -19,8 +19,14 @@ After assigning skill levels to everyone and selecting the right number of teams
 
 <img src="https://user-images.githubusercontent.com/70592592/109427059-9d048b80-79be-11eb-87e5-f71d54878727.png" width="400">
 
-Generated teams will be closely balansed by skill level and number of players per team.
+Generated teams will be closely balansed by skill level and by number of players per team.
 
 <img src="https://user-images.githubusercontent.com/70592592/109427060-9d048b80-79be-11eb-858c-9c9040bb8f02.png" width="400">
 
 There are some usefull buttons at the bottom of the page. The Edit button allows you to edit skill levels. The Relaunch button lets you re-shuffle teams.
+
+Limitations | A way around it
+:-----------------------|:-------------------------
+No manual edit of teams | - Click Relaunch 1, 2, ... times <br> - Before/after telling players their teams, take a moment to evaluate teams and make some manual changes 
+No balance by height, special skills, gender and skill combo | The Skill field should somehow combine all abilities
+
