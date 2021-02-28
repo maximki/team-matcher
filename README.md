@@ -27,6 +27,6 @@ There are some usefull buttons at the bottom of the page. The Edit button allows
 
 Limitations | A way around it
 :-----------------------|:-------------------------
-No manual edit of teams | - Click Relaunch 1, 2, ... times <br> - Before/after telling players their teams, take a moment to evaluate teams and make some manual changes 
+No manual edit of teams | - Click Relaunch 1, 2, ... times <br> - Before/after telling players their team assignments, evaluate teams and re-assign players if needed 
 No balance by height, special skills, gender and skill combo | The Skill field should somehow combine all abilities
 
