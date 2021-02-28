@@ -15,7 +15,7 @@ The button redirects to https://www.keamk.com/random-team-generator and pop ups 
 
 <img src="https://user-images.githubusercontent.com/70592592/109427058-9d048b80-79be-11eb-891c-48e20f51ecea.png" width="400">
 
-After assigning skill levels to everyone and selecting the right number of teams, you need to click "Generate teams" at the bottom of the page.
+After editting participant list(removing no-shows/people who is late, creating records for somebody's +1), assigning skill levels to everyone and selecting the right number of teams, you need to click "Generate teams" at the bottom of the page.
 
 <img src="https://user-images.githubusercontent.com/70592592/109427059-9d048b80-79be-11eb-87e5-f71d54878727.png" width="400">
 
